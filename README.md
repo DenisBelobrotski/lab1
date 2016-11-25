@@ -9,7 +9,7 @@
 Вывод результата осуществить с тремя знаками после десятичной точки.
 Требования: 
 ----------------------------------------------------------
-всю логику приложения разместить в отдельном классе; обработать исключения; clean code.
+Всю логику приложения разместить в отдельном классе; обработать исключения; clean code.
 Варианты:
 --------------------
-![screenshot of sample](https://8ad268e9-a-62cb3a1a-s-sites.googlegroups.com/site/famcsbsu/labs/programming/task1/Task1.jpg?attachauth=ANoY7crRxDxgw707TwSk09uU8Oh1bSKg2EWaP_brT7bLsnGf3N_eGkV-9pCunOAahDKCNy8rGhvJwA0PxA8TjJNUs-CXMTEoWGUvNdZT7jTELUCB1NKD1HIYndMwjDgevP1DHLO5M08lf94kvwJ9Kf6zNF_1qAbiPzZNtOmaxY31QPk69bnFw-cOkzjk5ErF74fF0YVc37AzuXOGzDPRQ3ffKKxLJsod7shOQh9yzuzh0sEz93tiCUw%3D&attredirects=0)
+![conditions](https://8ad268e9-a-62cb3a1a-s-sites.googlegroups.com/site/famcsbsu/labs/programming/task1/Task1.jpg?attachauth=ANoY7crRxDxgw707TwSk09uU8Oh1bSKg2EWaP_brT7bLsnGf3N_eGkV-9pCunOAahDKCNy8rGhvJwA0PxA8TjJNUs-CXMTEoWGUvNdZT7jTELUCB1NKD1HIYndMwjDgevP1DHLO5M08lf94kvwJ9Kf6zNF_1qAbiPzZNtOmaxY31QPk69bnFw-cOkzjk5ErF74fF0YVc37AzuXOGzDPRQ3ffKKxLJsod7shOQh9yzuzh0sEz93tiCUw%3D&attredirects=0)
